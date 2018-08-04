@@ -26,9 +26,20 @@ sensors:
 * NO2 https://www.aliexpress.com/item/S-4-2NO2-This-2-electrode-NO2-sensor-is-an-ideal-cost-effective-solution-for-detecting/32878449659.html $60
 
 ## SO2 
-https://www.aliexpress.com/item/Free-shipping-ME4-SO2-sulfur-dioxide-sensor-gas-detection-sensor-probe-Technology/32809033220.html  $80  range 0-20ppm resolution 0.1ppm
+* SO2 https://www.aliexpress.com/item/Free-shipping-ME4-SO2-sulfur-dioxide-sensor-gas-detection-sensor-probe-Technology/32809033220.html  $80  range 0-20ppm resolution 0.1ppm
+
+* SO2 https://www.aliexpress.com/item/Free-shipping-US-SPEC-Electrochemical-SO2-Sulfur-Dioxide-Sensor-20ppm-Package-3SP-SO2-20/32811636916.html 
+
+* SO2 https://www.aliexpress.com/item/Free-shipping-British-CITY-4S-SO2-sulfur-dioxide-gas-sensor-original-authentic-stock/32816825195.html  $130
+
+* H2S https://www.aliexpress.com/item/100-Good-Quality-MQ-136-the-H2S-Sensor-Module-MQ136-Hydrogen-Sulfur-Detection-Sensor/32810454265.html $20
+
+## H2S
+* H2S https://www.aliexpress.com/item/100-Good-Quality-MQ-136-the-H2S-Sensor-Module-MQ136-Hydrogen-Sulfur-Detection-Sensor/32810454265.html 
 
 ## mixed - these are often  nonspecific 
 * oxynitirde CJMCU- MICS-6814 Air Quality CO VOC NH3 https://www.aliexpress.com/item/CJMCU-MICS-6814-Air-Quality-CO-VOC-NH3-Nitrogen-Oxygen-Gas-Sensor/32764306250.html $25
+
+more detectors - see https://www.citytech.com/index.html
 
 ## platform: https://platform.hackair.eu/

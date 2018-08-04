@@ -40,6 +40,14 @@ sensors:
 ## mixed - these are often  nonspecific 
 * oxynitirde CJMCU- MICS-6814 Air Quality CO VOC NH3 https://www.aliexpress.com/item/CJMCU-MICS-6814-Air-Quality-CO-VOC-NH3-Nitrogen-Oxygen-Gas-Sensor/32764306250.html $25
 
-more detectors - see https://www.citytech.com/index.html
+## more detectors - see https://www.citytech.com/index.html
 
-## platform: https://platform.hackair.eu/
+# air quality egg sensors 
+
+
+*    Carbon Monoxide and Nitrogen Dioxide is a SGX Sensortech MICS-4514 metal oxide sensor
+*    Ozone sensor is a SGX Sensortech Limited MICS-2614 metal oxide sensor
+*    Particulate matter sensor is a Shinyei PPD42 optical particle counter
+*    MaxDetect RHT03 for temperature and humidity
+
+# platform: https://platform.hackair.eu/

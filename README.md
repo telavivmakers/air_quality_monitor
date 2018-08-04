@@ -21,6 +21,13 @@ sensors:
 
 * O2 KE25 https://www.aliexpress.com/item/Free-shipping-Oxygen-sensor-KE-25-NEW/32652404724.html  $55
 
+## NO2
+
+* NO2 https://www.aliexpress.com/item/S-4-2NO2-This-2-electrode-NO2-sensor-is-an-ideal-cost-effective-solution-for-detecting/32878449659.html $60
+
+## SO2 
+https://www.aliexpress.com/item/Free-shipping-ME4-SO2-sulfur-dioxide-sensor-gas-detection-sensor-probe-Technology/32809033220.html  $80  range 0-20ppm resolution 0.1ppm
+
 ## mixed - these are often  nonspecific 
 * oxynitirde CJMCU- MICS-6814 Air Quality CO VOC NH3 https://www.aliexpress.com/item/CJMCU-MICS-6814-Air-Quality-CO-VOC-NH3-Nitrogen-Oxygen-Gas-Sensor/32764306250.html $25
 

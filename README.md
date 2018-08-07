@@ -20,6 +20,8 @@ sensors:
 ## O2
 
 * O2 KE25 https://www.aliexpress.com/item/Free-shipping-Oxygen-sensor-KE-25-NEW/32652404724.html  $55
+* O2 alphasense https://www.aliexpress.com/item/FREE-SHIPPING-1PCS-Oxygen-Sensor-O2-A2-O2A2-02-A2-02A2-Gas-Sensor-Detector-ALPHASENSE-Oxygen/32843621321.html
+
 
 ## NO2
 
